@@ -136,6 +136,10 @@ h3 {
     #title {
         text-align: center;
     }
+    
+    .press-logo {
+        width: 20%;
+    }
 }
 
 /* CTA Section */
